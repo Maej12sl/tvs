@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+</head>
+<body>
+<h1>Welcome to my Website</h1>
+<p>This is just a simple practice website created with HTML and hosted on Github pages </p>
+<img src="devops1.jpg" alt="devops1">
+</body>
+</html>
